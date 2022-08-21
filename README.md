@@ -1,4 +1,2 @@
-# Hecker
-I am a coder.
-Please don't steal my games or projects.
-So have fun with my games without stealing anything.
+I am a programmer.
+Please don't steal my code.
